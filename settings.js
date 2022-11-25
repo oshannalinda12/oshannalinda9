@@ -49,7 +49,7 @@ global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 global.owner = ['+94715730508']
 global.ownertag = '+94715730508' //your tag number
-global.botname = '𝚁𝙴𝙳 𝙳𝚁𝙰𝙶𝙾𝙽- 𝙱𝙾𝚃' //ur bot name
+global.botname = '𝗢𝗦𝗛𝗔𝗡 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 - 𝗕𝗢𝗧' //ur bot name
 global.packname = "Bot Sticker" // sticker packname
 global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
